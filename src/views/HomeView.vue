@@ -15,7 +15,7 @@ import DdayCounter from '@/components/DdayCounter.vue'
   <!-- 하단 로고 배치 -->
   <div class="absolute bottom-0 z-20 w-full py-4 flex justify-center">
     <div
-      class="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
+      class="grid grid-cols-2 md:grid-cols-4 md:gap-2 gap-4 items-center">
       <object data="https://cdn.lunaiz.com/kghs/kghs.svg" alt="경기고등학교" class="w-[7.5rem] md:w-[13rem] mx-auto" />
       <object data="https://cdn.lunaiz.com/kghs/khbs.svg" alt="경기고등학교 방송부" class="w-[5rem] md:w-[7.5rem] mx-auto" />
       <object data="https://cdn.lunaiz.com/lunaiz_logo/logo-d.svg" alt="lunaiz" class="w-[5rem] md:w-[7.5rem] mx-auto" />
