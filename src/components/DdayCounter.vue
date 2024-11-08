@@ -1,10 +1,10 @@
 <template>
     <div class="flex flex-col items-center justify-center text-center text-white">
-      <div class="text-4xl font-bold">2025 for 07</div>
-      <div class="text-2xl mt-2">D-{{ dDay2025 }}</div>
+      <div class="text-4xl font-bold mb-2">2025 수능 for 07</div>
+      <div class="text-3xl mt-2">D-{{ dDay2025 }}</div>
   
-      <div class="text-4xl font-bold mt-8">2026 for 08</div>
-      <div class="text-2xl mt-2">D-{{ dDay2026 }}</div>
+      <div class="text-4xl font-bold mt-8 mb-2">2026 수능 for 08</div>
+      <div class="text-3xl mt-2">D-{{ dDay2026 }}</div>
     </div>
   </template>
   
