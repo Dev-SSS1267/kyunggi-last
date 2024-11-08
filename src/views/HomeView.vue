@@ -5,7 +5,7 @@ import DdayCounter from '@/components/DdayCounter.vue'
 <template>
   <div class="absolute inset-0 flex flex-col items-center justify-center z-20 text-center text-white space-y-4">
     <!-- 상단 문구 -->
-    <div class="text-2xl md:text-4xl font-semibold mb-[5rem]">
+    <div class="text-2xl md:text-4xl font-semibold mb-[3rem] md:mb-[5rem]">
       believe in yourself, and your dreams will come true.
     </div>
 
