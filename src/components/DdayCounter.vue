@@ -37,12 +37,3 @@
   })
   </script>
   
-  <style>
-  .text-4xl {
-    font-size: 2.5rem;
-  }
-  .text-2xl {
-    font-size: 1.5rem;
-  }
-  </style>
-  
